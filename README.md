@@ -1,9 +1,9 @@
 # SQL-Data-Analysis-for-FDA-And-PowerBI-Visualisation 
 ![image](https://github.com/Akhil-Nairr/SQL-Data-Analysis-for-FDA/assets/145264970/124639e0-23e1-49d6-b850-440a8a85cd4e)
 
-**Part - 1 SQL Queries:
-**
-Task 1: Identifying Approval Trends
+**Part - 1 SQL Queries:**
+
+**Task 1: Identifying Approval Trends**
 
 1. Determine the number of drugs approved each year and provide insights into the yearly
 trends.
@@ -13,8 +13,7 @@ ascending order, respectively.
 4. Rank sponsors based on the total number of approvals they received each year between 1939
 and 1960.
 
-**Task 2: Segmentation Analysis Based on Drug MarketingStatus
-**
+**Task 2: Segmentation Analysis Based on Drug MarketingStatus**
 
 1. Group products based on MarketingStatus. Provide meaningful insights into the
 segmentation patterns.
@@ -23,23 +22,21 @@ segmentation patterns.
 3. Identify the top MarketingStatus with the maximum number of applications and analyze its
 trend over time.
 
-**Task 3: Analyzing Products
-**
+**Task 3: Analyzing Products**
 
 1.Categorize Products by dosage form and analyze their distribution.
 2. Calculate the total number of approvals for each dosage form and identify the most
 successful forms.
 3. Investigate yearly trends related to successful forms.
 
-**Task 4: Exploring Therapeutic Classes and Approval Trends
-**
+**Task 4: Exploring Therapeutic Classes and Approval Trends**
+
 1. Analyze drug approvals based on therapeutic evaluation code (TE_Code).
 2. Determine the therapeutic evaluation code (TE_Code) with the highest number of Approvals in
 each year.
 
 
-**Part - 2 Power BI Visualizations:
-**
+**Part - 2 Power BI Visualizations:**
 
 i. Visualize the yearly approval trends of drugs. Highlight any significant patterns and/or
 fluctuations, if any.
@@ -57,3 +54,14 @@ different forms. Identify the most successful dosage form.
 
 vi. Visualize drug approvals based on therapeutic classes. Identify classes with the highest
 number of approvals.
+
+
+**Here are some visuals based on the task mentioned in part 2 of visualization**
+
+Based on Part 2, I have made three pages of reports in which I have covered each task mentioned and gave them appropriate visuals.
+
+![image](https://github.com/Akhil-Nairr/SQL-Data-Analysis-for-FDA/assets/145264970/a913bc46-9931-4b18-b3e9-c41e6714ef67)
+
+![image](https://github.com/Akhil-Nairr/SQL-Data-Analysis-for-FDA/assets/145264970/ea5ad48c-6035-4abd-8263-7d1fc9a9f68c)
+
+![image](https://github.com/Akhil-Nairr/SQL-Data-Analysis-for-FDA/assets/145264970/8fe4feb3-26d0-47e1-ae38-d63c1a753814)
