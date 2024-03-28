@@ -2,8 +2,8 @@
 ![image](https://github.com/Akhil-Nairr/SQL-Data-Analysis-for-FDA/assets/145264970/124639e0-23e1-49d6-b850-440a8a85cd4e)
 
 **Part - 1 SQL Queries:
-
-**Task 1: Identifying Approval Trends
+**
+Task 1: Identifying Approval Trends
 
 1. Determine the number of drugs approved each year and provide insights into the yearly
 trends.
@@ -30,7 +30,9 @@ trend over time.
 2. Calculate the total number of approvals for each dosage form and identify the most
 successful forms.
 3. Investigate yearly trends related to successful forms.
-Task 4: Exploring Therapeutic Classes and Approval Trends
+
+**Task 4: Exploring Therapeutic Classes and Approval Trends
+**
 1. Analyze drug approvals based on therapeutic evaluation code (TE_Code).
 2. Determine the therapeutic evaluation code (TE_Code) with the highest number of Approvals in
 each year.
